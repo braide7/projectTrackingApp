@@ -7,4 +7,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+
+// ![p](https://github.com/braide7/the-dojo/blob/main/screenshots/loginPage.png)
 )
